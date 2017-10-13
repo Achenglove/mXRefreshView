@@ -1,6 +1,6 @@
 # mXRefreshView
 
-### 基于https://github.com/huxq17/XRefreshView打造所属于自己的样式
+### 基于https://github.com/huxq17/XRefreshView 打造所属于自己的样式
 ----
 
 #### 使用方法Gradle
